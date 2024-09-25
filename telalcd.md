@@ -16,7 +16,7 @@ distancia toda vez que  algem se aproxime a menos de 1 mentro do sensor.
   
 ## montagem do circuito
 
-![imagem do circuito](telalcdcomsensordemovimento.png)
+![imagem do circuito](TelaLCD.png)
 
 ## Explicaçao do codigo 
 Incluindo a biblioteca do LCD para controlar displays LCD com o controlador Hitachi HD44780
