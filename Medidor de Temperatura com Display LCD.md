@@ -4,10 +4,10 @@ Este circuito utiliza um sensor de temperatura e um display LCD para monitorar e
 A comunicação entre o sensor e o Arduino permite que os dados sejam processados e exibidos no display em tempo real.
 
 ## Componentes necessários:
- -1 Arduino Uno
- -1 Sensor de temperatura (LM35)
- -1 Display LCD I2C
- -Protoboard e jumpers
+ - 1 Arduino Uno
+ - 1 Sensor de temperatura (LM35)
+ - 1 Display LCD I2C
+ - Protoboard e jumpers
 
 ##montagem do circuito
 ![imagem do circuito](MedidordeTemperaturacomDisplayLCD.png)
@@ -29,7 +29,7 @@ A comunicação entre o sensor e o Arduino permite que os dados sejam processado
 - VCC: Conectado ao pino 5V do Arduino.
 - SDA: Conectado ao pino A4 do Arduino.
 - SCL: Conectado ao pino A5 do Arduino.
-##Explicação do Código:
+## Explicação do Código:
 1.Leitura do sensor: O valor analógico lido pelo pino A0 é convertido para um valor de temperatura em graus Celsius.
 2.Exibição no LCD: A temperatura é atualizada e exibida no display LCD a cada segundo.
 ## Funcionamento:
