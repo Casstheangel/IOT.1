@@ -9,7 +9,7 @@ A comunicação entre o sensor e o Arduino permite que os dados sejam processado
  - 1 Display LCD I2C
  - Protoboard e jumpers
 
-##montagem do circuito
+## montagem do circuito
 ![imagem do circuito](MedidordeTemperaturacomDisplayLCD.png)
 
 ## Descrição do Circuito:
