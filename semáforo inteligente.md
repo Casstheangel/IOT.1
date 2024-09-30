@@ -14,7 +14,7 @@ LEDs e um Arduino Uno. O sistema acende LEDs de diferentes cores conforme a dist
 - Jumpers – Fios de conexão para ligar os componentes ao Arduino.
 
 ## montagem do circuito
-![imagem do circuito](semáforo inteligente.png)
+![imagem do circuito](semaforointeligente.png)
 ## Explicação do Circuito:
 
 - Os sensores ultrassônicos HC-SR04 são responsáveis pela detecção da distância de objetos em frente a eles. Cada sensor utiliza dois pinos de conexão com o Arduino: Trigger e Echo.
